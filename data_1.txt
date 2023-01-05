@@ -1,0 +1,60 @@
+What is molasses @ Item Information
+Where do bears live @ Location
+Why the sky is blue @ Item info
+How to Make Borscht @ Instruction
+How to learn to fly @ Instruction
+How to wake up early @ Instruction
+How to find happiness @ Instruction
+How to kill a cockroach @ Instruction
+How many stars in the sky @ Number
+How tall is the Eiffel Tower @ Quantity
+Why does it rain @ Item info
+What movies was DiCaprio in @ Item info
+When was Einstein born @ Date of birth
+When World War I started @ Date
+What year was the Titanic built @ Date
+When Ivan IV started reigning @ Date
+When was the Battle of Austerlitz @ Date
+What year was the Seven Years' War @ Date
+When Napoleon Bonaparte reigned @ Date
+When Napoleon Bonaparte's reign ended @ Date
+In what years Prince Svyatoslav ruled @ Date
+In what year did Yaroslav the Wise die @ Date
+What year Moscow was first mentioned @ Date
+What year Saint-Petersburg was founded @ Date
+When was the Battle of the Ice @ Date
+When was the Battle of Kulikovo @ Date
+What year was the year books were printed in Russia @ Date
+When was the Battle of Poltava @ Date
+What year World War I ended @ Date
+In what year was the Treaty of Tilsit signed @ Date
+What year "Fathers and Children" was written @ date @ Date
+When is Teachers' Day @ Date
+When is Mother's Day @ Date
+When serfdom was abolished @ Date
+What happened on June 12, 1812 @ the Date
+What happened on November 20, 1805 @ Date
+What happened on June 6, 1799 @ the Date
+What happened on April 1, 1809 @ the Date
+What city begins in 1147 @ Date
+Who is Einstein @ Personality Info
+What is "rain" @ Subject Information
+Who founded St. Petersburg @ Name
+Who is Christopher Columbus @ Personality information
+What was Columbus' name @ Name
+Who wrote the work "Crime and Punishment" @ Name
+Who wrote the poem "The Troika" @ Name
+What is the average depth of the Pacific Ocean @ Name
+What is the height of Big Ben @ Number
+Where is the Sydney Opera House @ Location
+Where is the largest lake @ Location
+What country is the capital city of Moscow @ Location
+How many tablespoons are in a quarter cup @ Quantity
+What is the capital of Slovenia @ Location
+Who is the current Prime Minister of the United Kingdom @  Personality Information
+How do you make a peanut butter and jelly sandwich @ Instructions
+Who is the current President of Turkey @ Personality Information
+How many teaspoons are in a tablespoon @ Quantity
+How do you make a bowl of cereal @ Instructions
+What is the capital of Croatia @ Location
+How do you make a grilled cheese sandwich @  Instructions
